@@ -1,5 +1,7 @@
 h1.display-3 {
 	text-align: center;
+    font-weight: 500;
+    margin-top: 20px;
 }
 
 a {
@@ -10,8 +12,9 @@ a:hover{
     color:deepskyblue
 }
 
+
 body{
-    background-color: lightgray;
+    background-color: white;
 }
 
 @media (min-width: 1200px) {
@@ -34,6 +37,7 @@ p.main-text{
     line-height: 185%;
     font-size: 105%;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 
