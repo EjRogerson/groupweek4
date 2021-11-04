@@ -10,8 +10,8 @@ a:hover{
     color:deepskyblue
 }
 
-Easy-nav {
-    
+body{
+    background-color: lightgray;
 }
 
 @media (min-width: 1200px) {
